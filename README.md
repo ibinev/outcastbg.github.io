@@ -1,2 +1,2 @@
 # outcastbg.github.io
-Личен уебсайт на OutcastBG
+Личен уебсайт на YouTUbe канала OutcastBG

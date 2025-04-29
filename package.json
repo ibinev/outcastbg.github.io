@@ -1,0 +1,15 @@
+{
+  "name": "outcast-bg",
+  "version": "1.0.0",
+  "description": "Podcast website using Web Components and Lit",
+  "main": "index.html",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --watch --open"
+  },
+  "dependencies": {
+    "lit": "^3.0.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.0"
+  }
+}
